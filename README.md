@@ -25,7 +25,6 @@ The good people over at [Airbnb](https://github.com/airbnb) have put together a 
 
 The differences are as follows:
 
-### Brace Style
 
 ### Indentation
 
@@ -60,6 +59,8 @@ switch (someTest) {
         break;
 }
 ~~~
+
+### Brace Style
 
 #### Classes/Methods/Functions
 
